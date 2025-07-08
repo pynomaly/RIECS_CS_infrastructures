@@ -7,5 +7,7 @@ RIECS‑Concept: Mapping Citizen‑Science Infrastructures in Europe. Systematic
 The Jupyter notebooks display a reproducible workflow that begins with a broad web and literature search and culminates in a structured dataset covering technical dimensions of CS infrastructures.
 
 **Licenses**:
+
 Code: released under the MIT Licence.
+
 Notebooks, text, and images: released under CC BY 4.0.
