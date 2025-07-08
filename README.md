@@ -1,8 +1,8 @@
-# RIECS‑Concept: Mapping Citizen‑Science Infrastructures in Europe. 
+# RIECS‑Concept: Mapping Citizen‑Science Infrastructures in Europe
 
 ![RIECS‑Concept](images/RGB-horizontal.jpg)
 
-**Systematic discovery & challenge assessment of Citizen‑Science infrastructures across Europe.**
+**Systematic discovery & challenge assessment of Citizen‑Science infrastructures across Europe**
 
 **Description**: This repository accompanies the RIECS‑Concept project study on European Citizen‑Science (CS) infrastructures. It collects the search notebooks, data artefacts, and documentation created to (i) locate existing infrastructures, (ii) catalogue their characteristics, and (iii) assess the key challenges they face.
 
