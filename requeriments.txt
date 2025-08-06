@@ -5,3 +5,4 @@ google_play_scraper
 googlesearch-python
 python-whois
 python-dotenv
+playwright
