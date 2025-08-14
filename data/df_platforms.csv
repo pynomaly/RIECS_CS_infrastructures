@@ -1,0 +1,11 @@
+platform_url,active,platform_about,year_creation,terms_link,privacy_link,code_repository
+observation.org,Status code: 200,https://observation.org/about,2002.0,https://observation.org/terms,https://observation.org/privacy,https://github.com/TecharoHQ/anubis
+seasearch.org.uk,Status code: 200,https://www.seasearch.org.uk/about,1999.0,https://www.seasearch.org.uk/website-terms-conditions,https://www.seasearch.org.uk/privacy,
+natuurpunt.be,Status code: 200,https://natuurpunt.be/dit-is-natuurpunt,,https://natuurpunt.be/algemene-voorwaarden-en-privacy,https://natuurpunt.be/algemene-voorwaarden-en-privacy,
+slu.se/artdatabanken,Status code: 200,,1989.0,,,
+theroadlab.co.uk,Status code: 200,https://www.theroadlab.co.uk/about,2022.0,,,
+exploreyourshore.ie,Status code: 200,https://exploreyourshore.ie/about-explore-your-shore/,2019.0,https://exploreyourshore.ie/legals/,https://exploreyourshore.ie/cookie-policy/,
+eyeonwater.org,Status code: 200,https://eyeonwater.org/about-us,2015.0,https://eyeonwater.org/privacy-policy,https://eyeonwater.org/privacy-policy,
+iseahorse.org,Status code: 200,https://projectseahorse.org/about-us/,2012.0,https://projectseahorse.org/regulating-trade/controlling-legal-trade/,https://projectseahorse.org/privacy-statement-ca/,
+redpromar.org,Status code: 200,,2020.0,https://redpromar.org/sightings,https://redpromar.org/legal-notice,
+coastwards.org,"Fallo: HTTPSConnectionPool(host='coastwards.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff0c3ac4610>: Failed to establish a new connection: [Errno 111] Conexión rehusada'))",,2016.0,,,
